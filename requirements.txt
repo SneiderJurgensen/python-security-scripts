@@ -1,0 +1,8 @@
+# Dependencias base para scripts de seguridad
+# Agregar según se vayan creando los scripts
+
+# Ejemplo:
+# requests
+# scapy
+# paramiko
+# python-nmap
